@@ -1,1 +1,2 @@
 # Real-Time-Guava-Leaf-Detection-Using-YOLO
+This project presents a real-time object detection system for identifying various conditions in guava leaves, such as healthy, diseased, and pest-infected states, using YOLO-based deep learning models. The model is trained on a custom dataset prepared and annotated via Roboflow, enabling streamlined preprocessing, augmentation, and export in YOLO format. Multiple YOLO versions (from YOLOv7 to YOLOv12) are implemented and benchmarked to evaluate their performance in real-time scenarios.
